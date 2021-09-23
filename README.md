@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Jaime
-- 👀 I’m interested in audiovisual communication, design and storytelling
-- 🌱 I’m currently learning machine learning and generative stuff
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me in IG @jaimevera_
 
 <!---
